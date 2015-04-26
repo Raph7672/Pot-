@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+	<head> 
+		<meta charset="utf-8"/>
+		<link rel="stylesheet" href="style.css" />
+		<title> Test html css <title/>
+	</head>
+<body>
+
+<center> <img src="logo.jpg" alt "logo isep"  /> </br> </center>
+
+<div id="bandeau"> 	<a href=accueil.html> Accueil</a> 
+			<a href=mes_offres.html>Mes offres</a>
+			<a href=me_contacter.html>Me contacter </a>
+</div>
+
+<h1> Lorem ipsum dolor sit amet</h1>
+<h2> consectetur adipiscing elit</h2>
+
+<p>    Mauris imperdiet posuere urna, non eleifend diam consectetur ut.
+Proin luctus, magna sed cursus dapibus, ipsum eros viverra ipsum, a rhoncus mi urna eu tellus.
+Sed in purus et ipsum accumsan dignissim. Nunc lacinia vehicula libero, eget maximus metus. Suspendisse placerat at urna ut ultrices.
+Ut auctor neque a congue maximus. Phasellus ut dolor lacinia, porttitor quam at, euismod turpis. Fusce id arcu porta mi pellentesque tristique vel et est.
+Nulla ut congue ipsum. In in sem in nunc ultrices vestibulum. Vivamus congue, massa a hendrerit tincidunt, arcu nulla ornare nisi, a eleifend dui ante vel justo.
+Praesent malesuada mauris tempor ornare laoreet </br>
+	<ol>
+		<li>verdum</li>
+		<li>tantum</li>
+		<li>emonbandum</li>
+	</ol>
+</p>
+<h2>Aliquam vehicula lacus sed viverra mattis.</h2>
+
+<p> Vivamus sit amet gravida neque.
+Aenean blandit fringilla maximus. Donec id rutrum odio, ac interdum tortor. Curabitur vitae interdum arcu.
+Nulla tristique turpis scelerisque est laoreet malesuada. Mauris ullamcorper in tortor vehicula consequat.
+Morbi tincidunt, lectus a euismod consectetur, nisi dui accumsan orci, ut accumsan metus justo vitae arcu.
+</br>
+<ul>
+	<li>patum</li>
+	<li>vantum</li>
+	<li>flagadum</li>
+</ul>
+</p>
+
+<?php> date </?php>
+
+
+</body>
+
+</html>
